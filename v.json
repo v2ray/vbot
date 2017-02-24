@@ -8,6 +8,16 @@
       "MatchingCondTag": "",
       "OutPut": "一枝红杏出墙来",
       "Tags": "Chat"
+    },
+    {
+      "MatchingCond": [
+        "魔镜",
+        "告诉我",
+        "最美丽的女人"
+      ],
+      "MatchingCondTag": "",
+      "OutPut": "天下最美丽的女人，那当然是我们的群花维多利亚了。",
+      "Tags": "Chat"
     }
   ]
 }
