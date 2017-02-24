@@ -3,7 +3,7 @@
   "Contain": [
     {
       "MatchingCond": [
-        " ^[\u4e00-\u9fa5]{7}$"
+        "^[\u4e00-\u9fa5]{7}$"
       ],
       "MatchingCondTag": "",
       "OutPut": "一支红杏出樯来",
