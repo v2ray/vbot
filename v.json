@@ -3,14 +3,6 @@
   "Contain": [
     {
       "MatchingCond": [
-        "^[\\x{4e00}-\\x{9fa5}]{7}$"
-      ],
-      "MatchingCondTag": "",
-      "OutPut": "一枝红杏出墙来",
-      "Tags": "Chat"
-    },
-    {
-      "MatchingCond": [
         "魔镜",
         "告诉我",
         "最美丽的女人"
